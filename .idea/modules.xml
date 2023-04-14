@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_day_03/_day_03.iml" filepath="$PROJECT_DIR$/_day_03/_day_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_04/_day_04.iml" filepath="$PROJECT_DIR$/_day_04/_day_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_05/_day_05.iml" filepath="$PROJECT_DIR$/_day_05/_day_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_10/_day_10.iml" filepath="$PROJECT_DIR$/_day_10/_day_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_11/_day_11.iml" filepath="$PROJECT_DIR$/_day_11/_day_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_13/_day_13.iml" filepath="$PROJECT_DIR$/_day_13/_day_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_14/_day_14.iml" filepath="$PROJECT_DIR$/_day_14/_day_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitcamp.iml" filepath="$PROJECT_DIR$/bitcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_12/day12.iml" filepath="$PROJECT_DIR$/_day_12/day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_06/day_06.iml" filepath="$PROJECT_DIR$/_day_06/day_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_07/day_07.iml" filepath="$PROJECT_DIR$/_day_07/day_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_08/day_08.iml" filepath="$PROJECT_DIR$/_day_08/day_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_day_09/day_09.iml" filepath="$PROJECT_DIR$/_day_09/day_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/review/review.iml" filepath="$PROJECT_DIR$/review/review.iml" />
+    </modules>
+  </component>
+</project>
